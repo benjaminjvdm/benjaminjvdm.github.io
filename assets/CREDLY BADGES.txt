@@ -1,0 +1,41 @@
+Analyzing and Predicting Heart Failure on IBM Cloud
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fde9e402-7da6-469b-af8e-969cad42722f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Identify Potential Repeat Customers for Your Business
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a3e034a1-ed9b-4b8e-b9cf-607be23e1df7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Predict Employee Turnover using IBM Watson Studio
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="59a73eb7-db63-446d-96d8-f45a3615f11e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Data Science Professional Certificate (V2)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6c62163d-21c5-41e6-8360-5afcdd2c4121" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Applied Data Science Capstone
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="afc6b3e5-fcea-4612-9ec1-1fab342ec5de" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Machine Learning with Python
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95a9a880-409b-478b-b42e-b0b18875e74a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Data Visualization with Python
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43d472af-95c1-45ff-b91d-7aebcb3482b7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Data Analysis with Python
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cb907852-6b7d-427a-9522-b290281fcfe9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Databases and SQL for Data Science
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c186781-aec3-40ad-91ee-54d247e4d99c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Python Project for Data Science
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="34c4dbed-7497-4221-b188-8b095af0c3ee" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Python for Data Science and AI
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c3200428-0737-4242-9c50-1975380d1918" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Data Science Methodology
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a334eb0c-093a-4d45-9aa3-43f56eca2141" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Tools for Data Science
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c8ebaf72-5506-46ea-a152-5e2c3217b2eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+Data Science Orientation
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ea320381-75d3-4da9-af74-5addddbd86e0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
