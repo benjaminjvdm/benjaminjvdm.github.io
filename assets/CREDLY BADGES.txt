@@ -1,3 +1,6 @@
+Artificial Intelligence V2
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3e3cbae-a1e6-4d1d-9d99-900c720235ed" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 Banking and Financial Markets Industry Intro
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dfad9368-c7d1-4d60-90aa-660cd1823f3d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
